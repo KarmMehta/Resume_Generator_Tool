@@ -45,7 +45,7 @@ export default function Contact() {
 									<a
 										href='mailto:hello@resumegen.com'
 										className='text-blue-600 hover:text-blue-700'>
-										hello@resumegen.com
+										info@nexgenspark.com
 									</a>
 									<p className='text-gray-600 mt-4 mb-2'>
 										For support:
@@ -53,7 +53,7 @@ export default function Contact() {
 									<a
 										href='mailto:support@resumegen.com'
 										className='text-blue-600 hover:text-blue-700'>
-										support@resumegen.com
+										support@nexgenspark.com
 									</a>
 								</CardContent>
 							</Card>
@@ -104,7 +104,7 @@ export default function Contact() {
 									<p className='text-gray-600'>
 										We&apos;re a remote-first team serving
 										users worldwide, with our headquarters
-										in San Francisco, CA.
+										in Gujarat, India.
 									</p>
 								</CardContent>
 							</Card>
