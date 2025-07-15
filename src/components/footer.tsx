@@ -90,21 +90,21 @@ export function Footer() {
               <li className="flex items-center text-gray-400">
                 <Mail className="h-5 w-5 mr-3 text-blue-500" />
                 <a href="mailto:hello@resumegen.com" className="hover:text-white transition-colors">
-                  hello@resumegen.com
+                  info@nexgenspark.com
                 </a>
               </li>
               <li className="flex items-center text-gray-400">
                 <Phone className="h-5 w-5 mr-3 text-blue-500" />
                 <a href="tel:+1-555-123-4567" className="hover:text-white transition-colors">
-                  +1 (555) 123-4567
+                  +91 99097 38884
                 </a>
               </li>
               <li className="flex items-start text-gray-400">
                 <MapPin className="h-5 w-5 mr-3 text-blue-500 mt-0.5" />
                 <span>
-                  San Francisco, CA
+                  Gujarat
                   <br />
-                  United States
+                  India
                 </span>
               </li>
             </ul>
