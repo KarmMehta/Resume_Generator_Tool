@@ -13,7 +13,7 @@ export const metadata: Metadata = {
 	openGraph: {
 		title: "Resume Generator | Create Professional Resumes Online",
 		description: "Create professional resumes online with our free resume builder. Generate modern, professional resumes in minutes.",
-		url: "https://your-domain.com",
+		url: "https://www.nexgenspark.com/",
 		type: "website",
 		locale: "en_US",
 		siteName: "Resume Generator",
@@ -23,9 +23,9 @@ export const metadata: Metadata = {
 		title: "Resume Generator | Create Professional Resumes Online",
 		description: "Create professional resumes online with our free resume builder. Generate modern, professional resumes in minutes.",
 	},
-	authors: [{ name: "Your Name", url: "https://your-domain.com" }],
-	creator: "Your Name",
-	publisher: "Your Name",
+	authors: [{ name: "NexGenSpark", url: "https://www.nexgenspark.com/" }],
+	creator: "NexGenSpark",
+	publisher: "NexGenSpark",
 	themeColor: [
 		{ media: "(prefers-color-scheme: light)", color: "white" },
 		{ media: "(prefers-color-scheme: dark)", color: "black" },
@@ -41,7 +41,7 @@ export default function RootLayout({
 		<html lang='en'>
 			<head suppressHydrationWarning>
 				{/* Google Search Console Verification */}
-				<meta name="google-site-verification" content="YOUR_GOOGLE_SEARCH_CONSOLE_CODE" />
+				<meta name="google-site-verification" content="UlQ9V-4-OUWO0qmMq_PccPPbM9M5s9WoNjavvwGaUo8" />
 
 				{/* Google Analytics */}
 				<script async src="https://www.googletagmanager.com/gtag/js?id=YOUR_ANALYTICS_ID"></script>
