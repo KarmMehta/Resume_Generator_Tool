@@ -284,15 +284,14 @@ export default function Privacy() {
 							<ul>
 								<li>
 									<strong>Email:</strong>{" "}
-									support@resume-generator.com
+									support@nexgenspark.com
 								</li>
 								<li>
 									<strong>Address:</strong> Resume Generator
-									Support Team, 123 Tech Street, Silicon
-									Valley, CA 94025
+									Support Team, Gujarat, India.
 								</li>
 								<li>
-									<strong>Phone:</strong> +1 (408) 555-0123
+									<strong>Phone:</strong> +91 99097 38884
 								</li>
 							</ul>
 

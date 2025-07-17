@@ -174,10 +174,10 @@ export default function Terms() {
 
 							<h2>12. Governing Law</h2>
 							<p>
-								These Terms shall be interpreted and governed by
-								the laws of the State of California, United
-								States, without regard to its conflict of law
-								provisions.
+								These Terms shall be interpreted and governed and
+								construed in accordance with the laws of Inda, and
+								any dispute shall be subject to the exlusive
+								jurisdiction of the courts of Gujarat, India.
 							</p>
 
 							<h2>13. Contact Information</h2>
@@ -186,10 +186,9 @@ export default function Terms() {
 								Service, please contact us at:
 							</p>
 							<ul>
-								<li>Email: legal@example.com</li>
+								<li>Email: support@nexgenspark.com</li>
 								<li>
-									Address: ResumeGen Legal Department, San
-									Francisco, CA
+									Address: 33/B, Saibaba Society, Tilaknagar, Bhavnagar, Gujarat, India.
 								</li>
 							</ul>
 
