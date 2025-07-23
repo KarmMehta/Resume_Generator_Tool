@@ -8,6 +8,9 @@ export const metadata: Metadata = {
 		"Learn about ResumeGen, our mission to help job seekers create professional resumes, and the team behind our innovative resume building platform.",
 	keywords:
 		"about resume generator, resume builder team, professional resume creation, career development",
+	alternates: {
+    canonical: "https://www.nexgenspark.com/about",
+  },
 };
 
 export default function About() {

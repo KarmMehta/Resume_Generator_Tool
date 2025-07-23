@@ -43,6 +43,9 @@ export default function RootLayout({
 				{/* Google Search Console Verification */}
 				<meta name="google-site-verification" content="UlQ9V-4-OUWO0qmMq_PccPPbM9M5s9WoNjavvwGaUo8" />
 
+				{/* Canonical URL */}
+				<link rel="canonical" href="https://www.nexgenspark.com/" />
+
 				{/* Google Analytics */}
 				<script async src="https://www.googletagmanager.com/gtag/js?id=YOUR_ANALYTICS_ID"></script>
 				<script dangerouslySetInnerHTML={{
