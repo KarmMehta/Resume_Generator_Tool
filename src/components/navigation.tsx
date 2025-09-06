@@ -29,6 +29,9 @@ export function Navigation() {
             <Link href="/about" className="text-gray-700 hover:text-blue-600 transition-colors">
               About
             </Link>
+            <Link href="/blog" className="text-gray-700 hover:text-blue-600 transition-colors">
+              Blog
+            </Link>
             <Link href="/contact" className="text-gray-700 hover:text-blue-600 transition-colors">
               Contact
             </Link>
@@ -57,6 +60,9 @@ export function Navigation() {
               </Link>
               <Link href="/about" className="text-gray-700 hover:text-blue-600 transition-colors">
                 About
+              </Link>
+              <Link href="/blog" className="text-gray-700 hover:text-blue-600 transition-colors">
+                Blog
               </Link>
               <Link href="/contact" className="text-gray-700 hover:text-blue-600 transition-colors">
                 Contact
